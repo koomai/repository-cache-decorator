@@ -10,7 +10,7 @@ This is a sample Laravel app to demonstrate the use of a Decorator pattern to im
 3. php artisan db:seed
 ```
 
-Check the `Repositories` directory for implementation details.
+Check the `Repositories` directory and `RepositoryServiceProvider` for implementation details.
 
 ## Note
 
